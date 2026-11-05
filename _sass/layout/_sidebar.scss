@@ -186,7 +186,7 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
 }
 .sidebar .author__name {
@@ -236,6 +236,7 @@
 
   @include breakpoint($large) {
     display: block;
+    padding-top: 12px;
   }
 
   button {
