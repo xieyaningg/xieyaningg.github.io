@@ -172,6 +172,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  padding-bottom: 12px;
 
   @include breakpoint($large) {
     display: block;
@@ -236,7 +237,6 @@
 
   @include breakpoint($large) {
     display: block;
-    padding-top: 12px;
   }
 
   button {
