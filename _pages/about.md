@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
 
 I am a graduate student at the School of Artificial Intelligence, Wuhan University of Technology. My research interests focus on learning-based image compression, particularly multi-view image compression and distributed image compression.
 
