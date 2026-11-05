@@ -21,14 +21,10 @@ I am interested in exploring how advanced machine learning models, visual repres
 - **Henan Institute of Science and Technology**  
   Undergraduate Student, 2022 – 2026
 
-## Research Interests
+## Honors & Awards
 
-My current research interests include:
-
-- **Multi-view Image Compression:** Exploring joint encoding strategies and cross-view information utilization to improve compression efficiency across multiple views.
-- **Distributed Image Compression:** Investigating how to exploit shared information and side information for efficient image compression and reconstruction.
-- **Learning-based Image Compression:** Studying neural network architectures, entropy modeling, and rate-distortion optimization for image compression.
-- **Generative Models for Image Compression:** Exploring the potential of diffusion models and other generative priors for improving perceptual quality and image reconstruction.
+- **National Scholarship for Undergraduate Students**, Ministry of Education of the People's Republic of China, 2024 (2023–2024 Academic Year).
+- **National Scholarship for Undergraduate Students**, Ministry of Education of the People's Republic of China, 2023 (2022–2023 Academic Year).
 
 ## Current Research
 
