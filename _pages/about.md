@@ -18,6 +18,9 @@ I am interested in exploring how advanced machine learning models, visual repres
   School of Artificial Intelligence  
   Graduate Student, September 2026 – Present
 
+- **Henan Institute of Science and Technology**  
+  Undergraduate Student, 2022 – 2026
+
 ## Research Interests
 
 My current research interests include:
