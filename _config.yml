@@ -25,7 +25,7 @@ author:
   avatar           : "yaning-xie.jpg"
   name             : "Yaning Xie"
   pronouns         :
-  bio              : "Graduate student researching multi-view image compression and distributed image compression."
+  bio              : 
   location         :
   employer         : "Wuhan University of Technology"
   uri              :
@@ -37,7 +37,7 @@ author:
   googlescholar    :
   inspire-hep      :
   impactstory      :
-  orcid            :
+  orcid            : "https://orcid.org/0009-0003-8698-7036"
   semantic         :
   ssrn             :
   pubmed           :
